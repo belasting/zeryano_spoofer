@@ -1,6 +1,5 @@
-<h3 align="center">If you have 3 invites you get a free 2 week key. Make a ticket: discord.gg/ZTEC64s8W2</h3>
+# HWID Spoofer, best for FiveM.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/ZTEC64s8W2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZTEC64s8W2" height="30" width="40" /></a>
-</p>
+I deleted the Discord server, if you are still intrested in getting your own spoofer for resseling please contact my discord or (@belastingfraudeur) or moradzakelijK@gmail.com
+
+And if you want to test te spoofer download from repo and ask me for a key.
